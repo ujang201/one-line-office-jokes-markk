@@ -1,0 +1,1 @@
+Write one single-line joke about office life, under 200 characters, that turns on a real office detail (the printer, reply-all email, or the Monday meeting) and lands its laugh in the last few words. The joke must be a single line, clear on one reading, with fresh wording — not a slogan, story, or list. Output only the joke itself, nothing else.
